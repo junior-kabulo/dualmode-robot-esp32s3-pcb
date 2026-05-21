@@ -126,7 +126,7 @@ La carte est divisée en plusieurs blocs fonctionnels :
 # Aperçu du projet
 
 ## Schématique
-![Schematic](Images/schematic.png)
+![Schematic](Images/Schematic.png)
 
 ---
 
