@@ -97,7 +97,7 @@ La carte est divisée en plusieurs blocs fonctionnels :
 
 - KiCad
 - SnapMagic
-- Arduino IDE / PlatformIO
+  
 
 ---
 
